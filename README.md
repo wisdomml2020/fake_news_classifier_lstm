@@ -1,4 +1,4 @@
-# Fake News Classification using NLP based Machine Learning & Deep Learning (BERT)
+# Fake News Classification using NLP based Machine Learning & Deep Learning (LSTM)
 
 ## Project Overview
 
